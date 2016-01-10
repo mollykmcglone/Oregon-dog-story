@@ -1,9 +1,9 @@
 # _Git and Markdown practice_
 
-#### _An exercise to practice using Git and Markdown, 1/10/16_
+#### An exercise to practice using Git and Markdown, January 10th, 2016
 
-#### By _**Molly McGlone**_
+#### By **Molly McGlone**
 
 ## Description
 
-_This is a recreation of a news article that appeared on OregonLive.com on January 10th, 2016.  I created this project to practice using Git and Markdown, during my first week of the Introduction to Programming course at Epicodus._
+This is a recreation of a news article about the new state dog of Oregon that appeared on OregonLive.com on January 10th, 2016.  I created this project to practice using Git and Markdown, during my second class of the Introduction to Programming course at Epicodus.
