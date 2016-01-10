@@ -1,6 +1,6 @@
 # A state dog for Oregon? Newfoundland suggested for the job
 
-_By  Laura Frazier | The Oregonian/OregonLive_  
+_By  Laura Frazier_ **| The Oregonian/OregonLive**
   
 An Oregon House of Representatives committee will hear a pitch Thursday on naming the Newfoundland State Dog of Oregon. 
 
