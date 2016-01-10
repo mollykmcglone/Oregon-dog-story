@@ -20,3 +20,4 @@ Thursday's presentation to the House Interim Committee on Rules will be a first 
 
 Which dog do you think should represent Oregon? Feel free to weigh in with [our poll.](http://www.oregonlive.com/living/index.ssf/2016/01/a_state_dog_for_oregon_newfoun.html)
 
+![An image of a dog](https://en.wikipedia.org/wiki/Dog#/media/File:Poligraf_Poligrafovich.JPG)
